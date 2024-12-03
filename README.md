@@ -80,6 +80,7 @@ This breakdown shows the proportion of revenue each category contributes to the 
 
 Actionable Insight:
 Diversify offerings in low-performing categories and capitalize on high-performing ones with upselling or cross-selling strategies.
+![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/af6b52eb2917258a1b4eb77f3934683365962a20/Dount%20Chart.PNG)
 
 Average Rating by City and Property Name
 Insight:
