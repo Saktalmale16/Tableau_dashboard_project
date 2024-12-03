@@ -72,7 +72,8 @@ For cities with lower revenue in specific categories, investigate causes (e.g., 
 
 Actionable Insight:
 Focus marketing efforts on top-performing city-category combinations and explore opportunities to grow revenue in underperforming areas.
-![image alt()
+![image alt(https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/0272eac0fca0afa2f2004b683b3f390a864b530a/Cluster%20Column%20Chart.PNG)
+
 % Revenue by Category
 Insight:
 This breakdown shows the proportion of revenue each category contributes to the total. Categories with the smallest share might have growth potential or need reevaluation.
