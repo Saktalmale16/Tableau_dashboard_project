@@ -105,7 +105,7 @@ If weekends outperform weekdays, this indicates demand driven by leisure travele
 Actionable Insight:
 Tailor promotions based on demand patterns (e.g., weekend deals for leisure travelers or weekday packages for corporate clients).
 
-![image alt]()
+![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/a17928a4a0631e36d1c5ea93e131812f8c559706/Butterfly%20Chart.PNG)
 
 Revenue by Room Class
 
