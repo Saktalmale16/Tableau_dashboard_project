@@ -31,7 +31,7 @@ This project demonstrates a comprehensive data analytics process—from importin
 
 
 # KPI Insights
-  Total Revenue: 1,709
+  Total Revenue: 1,709M
 
   Insight : The revenue indicates the current earnings for a specific period. While this figure is a baseline, comparing it to historical data or industry benchmarks can identify growth trends or areas needing 
   improvement.
