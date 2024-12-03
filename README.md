@@ -20,5 +20,5 @@ Cancellation rates
 These metrics are visualized using calculated fields and custom measures. The analysis includes tracking weekly performance trends, examining room utilization, and evaluating customer satisfaction to enable data-driven decision-making.
 
 This project demonstrates a comprehensive data analytics process—from importing and validating data to creating calculated fields for tailored insights—showcasing expertise in data modeling (including relationships, joins, unions, and data blending) and visualization within the hospitality industry.
-
+![image alt]()
 
