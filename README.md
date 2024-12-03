@@ -115,7 +115,7 @@ High-revenue room classes may indicate demand for premium offerings, while low-r
 Actionable Insight:
 Reevaluate pricing and amenities for underperforming room classes and offer bundles or upgrades to increase their appeal.
 
-![image alt]()
+![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/e55b7fde85b514358a9f120c53d6c8743b8debf5/Bar%20Chart.PNG)
 
 Total Revenue by Week Number and Category
 
