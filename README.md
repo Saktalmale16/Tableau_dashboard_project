@@ -59,8 +59,9 @@ This project demonstrates a comprehensive data analytics process—from importin
   Insight: Utilized capacity measures how many rooms or resources were actively used. If 232 represents room nights or similar capacity, it can be compared to total available capacity to identify efficiency.
 
   Actionable Insight: Optimize pricing strategies for unutilized capacity during low-demand periods and explore upselling opportunities to maximize utilization.
+
   
-  
+# Informative Charts Insights  
 Total Revenue by City and Category
 
 Insight:
