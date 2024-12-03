@@ -18,9 +18,13 @@ This project demonstrates a comprehensive data analytics process—from importin
 # Calculated Field
  
  Total Revenue = SUM([Revenue Realized])
+ 
  Average Rating = AVG([Ratings Given])
+ 
  Occupancy % = [Total Successful Bookings]/[Total Capacity] ELSE 0 END
+ 
  Utilized Capacity = SUM([Capacity])
+ 
  Cancellation Rate = [Cancellation Amount]/SUM([Revenue Generated])
 
 
