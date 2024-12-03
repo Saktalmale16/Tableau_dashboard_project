@@ -7,15 +7,7 @@ This Tableau project analyzes the performance of AtliQ Grand, a renowned luxury 
 
 Key Metrics Analyzed:
 
-Revenue trends
-
-Occupancy %
-
-Average ratings
-
-Utilized capacity
-
-Cancellation rates
+Revenue trends,Occupancy %,Average ratings,Utilized capacity,Cancellation rates
 
 These metrics are visualized using calculated fields and custom measures. The analysis includes tracking weekly performance trends, examining room utilization, and evaluating customer satisfaction to enable data-driven decision-making.
 
