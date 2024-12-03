@@ -125,7 +125,7 @@ Analyze weekly revenue trends to identify peak and off-peak periods for each cat
 Actionable Insight:
 Optimize staffing and inventory for peak weeks and introduce discounts or campaigns to boost revenue during slower weeks.
 
-![image alt]()
+![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/74e2a6f11365de255da1708c34857607ce838589/Line%20Chart.PNG)
 
 # Key Trackway
 
