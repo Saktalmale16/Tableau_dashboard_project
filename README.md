@@ -67,6 +67,7 @@ This project demonstrates a comprehensive data analytics process—from importin
 Total Revenue by City and Category
 
 Insight:
+
 Identify which cities contribute the most to total revenue and which categories (e.g., room types, customer segments) are most profitable within those cities.
 For cities with lower revenue in specific categories, investigate causes (e.g., lack of demand, competitive pricing).
 
@@ -76,6 +77,7 @@ Focus marketing efforts on top-performing city-category combinations and explore
 ![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/0272eac0fca0afa2f2004b683b3f390a864b530a/Cluster%20Column%20Chart.PNG)
 
 % Revenue by Category
+
 Insight:
 This breakdown shows the proportion of revenue each category contributes to the total. Categories with the smallest share might have growth potential or need reevaluation.
 
@@ -85,6 +87,7 @@ Diversify offerings in low-performing categories and capitalize on high-performi
 ![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/af6b52eb2917258a1b4eb77f3934683365962a20/Dount%20Chart.PNG)
 
 Average Rating by City and Property Name
+
 Insight:
 Identify cities and properties with the highest and lowest average ratings. Poorly rated properties might indicate service or facility issues.
 
@@ -95,6 +98,7 @@ Implement targeted improvement plans for low-rated properties and replicate succ
 ![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/418b34ac55ed766be8e4773a72928cd2206fe3df/Highlighted%20Table%20Visual.PNG)
 
 Revenue and Booking by Daytype (e.g., Weekday vs. Weekend)
+
 Insight:
 If weekends outperform weekdays, this indicates demand driven by leisure travelers. A reverse trend suggests a business traveler-oriented market.
 
@@ -104,6 +108,7 @@ Tailor promotions based on demand patterns (e.g., weekend deals for leisure trav
 ![image alt]()
 
 Revenue by Room Class
+
 Insight:
 High-revenue room classes may indicate demand for premium offerings, while low-revenue classes may need pricing or marketing adjustments.
 
@@ -113,6 +118,7 @@ Reevaluate pricing and amenities for underperforming room classes and offer bund
 ![image alt]()
 
 Total Revenue by Week Number and Category
+
 Insight:
 Analyze weekly revenue trends to identify peak and off-peak periods for each category. Seasonal patterns might emerge.
 
