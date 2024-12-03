@@ -90,12 +90,16 @@ Identify cities and properties with the highest and lowest average ratings. Poor
 Actionable Insight:
 Implement targeted improvement plans for low-rated properties and replicate successful practices from high-rated ones across the portfolio.
 
+![image alt]()
+
 Revenue and Booking by Daytype (e.g., Weekday vs. Weekend)
 Insight:
 If weekends outperform weekdays, this indicates demand driven by leisure travelers. A reverse trend suggests a business traveler-oriented market.
 
 Actionable Insight:
 Tailor promotions based on demand patterns (e.g., weekend deals for leisure travelers or weekday packages for corporate clients).
+
+![image alt]()
 
 Revenue by Room Class
 Insight:
@@ -104,12 +108,16 @@ High-revenue room classes may indicate demand for premium offerings, while low-r
 Actionable Insight:
 Reevaluate pricing and amenities for underperforming room classes and offer bundles or upgrades to increase their appeal.
 
+![image alt]()
+
 Total Revenue by Week Number and Category
 Insight:
 Analyze weekly revenue trends to identify peak and off-peak periods for each category. Seasonal patterns might emerge.
 
 Actionable Insight:
 Optimize staffing and inventory for peak weeks and introduce discounts or campaigns to boost revenue during slower weeks.
+
+![image alt]()
 
 # Key Trackway
 
