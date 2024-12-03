@@ -17,26 +17,31 @@ This project demonstrates a comprehensive data analytics process—from importin
 
 # KPI Insights
 1. Total Revenue: 1,709
+
 Insight: The revenue indicates the current earnings for a specific period. While this figure is a baseline, comparing it to historical data or industry benchmarks can identify growth trends or areas needing improvement.
 
 Actionable Insight: Investigate which segments (room type, customer demographics) contribute most to this revenue and optimize strategies for underperforming segments.
 
 2. Average Rating: 3.62
+
 Insight: A 3.62 average rating suggests moderate customer satisfaction. It indicates areas of improvement in services, amenities, or customer experience.
 
 Actionable Insight: Focus on customer feedback themes to improve services and aim for a higher rating (above 4.0), as this directly impacts customer retention and bookings.
 
 3. Occupancy Rate: 57.87%
+
 Insight: Occupancy at 57.87% is below the optimal range (typically 70-80% for high-performing hotels). This shows an opportunity to increase room bookings and overall utilization.
 
 Actionable Insight: Enhance marketing during off-peak seasons, introduce discounts or packages, and improve online visibility to drive higher occupancy.
 
 4. Cancellation Rate: 14.88%
+
 Insight: A cancellation rate of 14.88% is concerning, as cancellations directly affect revenue and occupancy rates.
 
 Actionable Insight: Analyze booking policies, cancellation patterns (time of cancellation, source of booking), and consider stricter policies or incentives for non-refundable bookings.
 
 5. Utilized Capacity: 232
+
 Insight: Utilized capacity measures how many rooms or resources were actively used. If 232 represents room nights or similar capacity, it can be compared to total available capacity to identify efficiency.
 
 Actionable Insight: Optimize pricing strategies for unutilized capacity during low-demand periods and explore upselling opportunities to maximize utilization.
