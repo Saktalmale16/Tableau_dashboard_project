@@ -95,6 +95,7 @@ Tailor promotions based on demand patterns (e.g., weekend deals for leisure trav
 Revenue by Room Class
 Insight:
 High-revenue room classes may indicate demand for premium offerings, while low-revenue classes may need pricing or marketing adjustments.
+
 Actionable Insight:
 Reevaluate pricing and amenities for underperforming room classes and offer bundles or upgrades to increase their appeal.
 
