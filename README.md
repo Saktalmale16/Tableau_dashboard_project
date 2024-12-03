@@ -15,6 +15,15 @@ This project demonstrates a comprehensive data analytics process—from importin
 
 ![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/b5968758d5bd279dd4b3f9a46410f807901497dc/Tableau%20Dashboard.PNG)
 
+# Calculated Field
+ 
+ Total Revenue = SUM([Revenue Realized])
+ Average Rating = AVG([Ratings Given])
+ Occupancy % = [Total Successful Bookings]/[Total Capacity] ELSE 0 END
+ Utilized Capacity = SUM([Capacity])
+ Cancellation Rate = [Cancellation Amount]/SUM([Revenue Generated])
+
+
 # KPI Insights
   Total Revenue: 1,709
 
