@@ -105,3 +105,14 @@ Analyze weekly revenue trends to identify peak and off-peak periods for each cat
 
 Actionable Insight:
 Optimize staffing and inventory for peak weeks and introduce discounts or campaigns to boost revenue during slower weeks.
+
+# Key Trackway
+
+Identification of revenue trends, occupancy patterns, and customer satisfaction levels enables targeted strategies for improvement.
+
+Insights into weekly performance, room utilization, and cancellation rates help refine decision-making processes and address inefficiencies.
+
+Custom measures and calculated fields ensure tailored analysis, supporting AtliQ Grand’s goal of reclaiming market share and boosting profitability.
+
+# Conclusion
+The Tableau dashboard developed for AtliQ Grand provides a comprehensive analysis of the hotel chain's performance, addressing critical challenges like declining revenue and market share. By leveraging advanced data modeling techniques, such as relationships, joins, unions, and data blending, coupled with interactive visualizations, the project delivers actionable insights to enhance operational efficiency and revenue generation.This project not only demonstrates the power of data-driven insights in addressing real-world business challenges but also highlights the effectiveness of Tableau as a tool for sophisticated data analytics and visualization within the hospitality industry.
