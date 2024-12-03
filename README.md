@@ -59,3 +59,47 @@ This project demonstrates a comprehensive data analytics process—from importin
   Insight: Utilized capacity measures how many rooms or resources were actively used. If 232 represents room nights or similar capacity, it can be compared to total available capacity to identify efficiency.
 
   Actionable Insight: Optimize pricing strategies for unutilized capacity during low-demand periods and explore upselling opportunities to maximize utilization.
+  
+  
+Total Revenue by City and Category
+
+Insight:
+Identify which cities contribute the most to total revenue and which categories (e.g., room types, customer segments) are most profitable within those cities.
+For cities with lower revenue in specific categories, investigate causes (e.g., lack of demand, competitive pricing).
+
+Actionable Insight:
+Focus marketing efforts on top-performing city-category combinations and explore opportunities to grow revenue in underperforming areas.
+
+% Revenue by Category
+Insight:
+This breakdown shows the proportion of revenue each category contributes to the total. Categories with the smallest share might have growth potential or need reevaluation.
+
+Actionable Insight:
+Diversify offerings in low-performing categories and capitalize on high-performing ones with upselling or cross-selling strategies.
+
+Average Rating by City and Property Name
+Insight:
+Identify cities and properties with the highest and lowest average ratings. Poorly rated properties might indicate service or facility issues.
+
+Actionable Insight:
+Implement targeted improvement plans for low-rated properties and replicate successful practices from high-rated ones across the portfolio.
+
+Revenue and Booking by Daytype (e.g., Weekday vs. Weekend)
+Insight:
+If weekends outperform weekdays, this indicates demand driven by leisure travelers. A reverse trend suggests a business traveler-oriented market.
+
+Actionable Insight:
+Tailor promotions based on demand patterns (e.g., weekend deals for leisure travelers or weekday packages for corporate clients).
+
+Revenue by Room Class
+Insight:
+High-revenue room classes may indicate demand for premium offerings, while low-revenue classes may need pricing or marketing adjustments.
+Actionable Insight:
+Reevaluate pricing and amenities for underperforming room classes and offer bundles or upgrades to increase their appeal.
+
+Total Revenue by Week Number and Category
+Insight:
+Analyze weekly revenue trends to identify peak and off-peak periods for each category. Seasonal patterns might emerge.
+
+Actionable Insight:
+Optimize staffing and inventory for peak weeks and introduce discounts or campaigns to boost revenue during slower weeks.
