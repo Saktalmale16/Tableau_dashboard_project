@@ -90,7 +90,7 @@ Identify cities and properties with the highest and lowest average ratings. Poor
 Actionable Insight:
 Implement targeted improvement plans for low-rated properties and replicate successful practices from high-rated ones across the portfolio.
 
-![image alt]()
+![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/418b34ac55ed766be8e4773a72928cd2206fe3df/Highlighted%20Table%20Visual.PNG)
 
 Revenue and Booking by Daytype (e.g., Weekday vs. Weekend)
 Insight:
