@@ -72,6 +72,7 @@ For cities with lower revenue in specific categories, investigate causes (e.g., 
 
 Actionable Insight:
 Focus marketing efforts on top-performing city-category combinations and explore opportunities to grow revenue in underperforming areas.
+
 ![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/0272eac0fca0afa2f2004b683b3f390a864b530a/Cluster%20Column%20Chart.PNG)
 
 % Revenue by Category
@@ -89,6 +90,7 @@ Identify cities and properties with the highest and lowest average ratings. Poor
 
 Actionable Insight:
 Implement targeted improvement plans for low-rated properties and replicate successful practices from high-rated ones across the portfolio.
+
 
 ![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/418b34ac55ed766be8e4773a72928cd2206fe3df/Highlighted%20Table%20Visual.PNG)
 
