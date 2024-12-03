@@ -16,9 +16,10 @@ This project demonstrates a comprehensive data analytics process—from importin
 ![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/b5968758d5bd279dd4b3f9a46410f807901497dc/Tableau%20Dashboard.PNG)
 
 # KPI Insights
-1. Total Revenue: 1,709
+# Total Revenue: 1,709
 
-Insight: The revenue indicates the current earnings for a specific period. While this figure is a baseline, comparing it to historical data or industry benchmarks can identify growth trends or areas needing improvement.
+  Insight : The revenue indicates the current earnings for a specific period. While this figure is a baseline, comparing it to historical data or industry benchmarks can identify growth trends or areas needing 
+  improvement.
 
 Actionable Insight: Investigate which segments (room type, customer demographics) contribute most to this revenue and optimize strategies for underperforming segments.
 
