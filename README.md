@@ -5,7 +5,7 @@ Link To : [Interactive Dashboard](https://public.tableau.com/app/profile/sakshi.
 # Project Overview
 This Tableau project analyzes the performance of AtliQ Grand, a renowned luxury hotel chain, addressing revenue challenges and market share declines caused by increasing competition and ineffective management decisions. By utilizing interactive dashboards, the project provides actionable insights to optimize operations and increase revenue in the luxury and business hotel segments.
 
-Key Metrics Analyzed:
+# Key Metrics Analyzed:
 
 Revenue trends
 
