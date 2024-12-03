@@ -1,8 +1,8 @@
 # Hospitality Analytical Dashboard - Tableau
 Welcome to the AtliQ Grand Hospitality Dashboard project! This project was created to provide insightful data analysis for AtliQ Grand, a luxury hotel chain facing revenue challenges in India's competitive hospitality market. Using Tableau and a comprehensive dataset, the dashboard provides crucial insights for strategic decision-making.
 
-# Project Screenshot
 Link To : [Interactive Dashboard](https://public.tableau.com/app/profile/sakshi.talmale/viz/TableauprojectHospitality/Dashboard1)
+
 # Project Overview
 This Tableau project analyzes the performance of AtliQ Grand, a renowned luxury hotel chain, addressing revenue challenges and market share declines caused by increasing competition and ineffective management decisions. By utilizing interactive dashboards, the project provides actionable insights to optimize operations and increase revenue in the luxury and business hotel segments.
 
@@ -14,6 +14,7 @@ These metrics are visualized using calculated fields and custom measures. The an
 
 This project demonstrates a comprehensive data analytics process—from importing and validating data to creating calculated fields for tailored insights—showcasing expertise in data modeling (including relationships, joins, unions, and data blending) and visualization within the hospitality industry.
 
+# Project Screenshot
 ![image alt](https://github.com/Saktalmale16/Tableau_dashboard_project-2/blob/b5968758d5bd279dd4b3f9a46410f807901497dc/Tableau%20Dashboard.PNG)
 
 # Calculated Field
